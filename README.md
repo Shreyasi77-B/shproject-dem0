@@ -1,2 +1,2 @@
-# shproject-dem0
+# shproject-demo
 this is my first git repository
